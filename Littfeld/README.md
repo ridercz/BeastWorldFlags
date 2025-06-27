@@ -1,5 +1,7 @@
 # Littfeld
 
-![De facto flag of Littfeld](Littfeld.svg)
+![Flag of Littfeld](Littfeld.png)
 
-The caravan does not actually have an official flag, but the delvers adopted the orange/blue heart symbol, so it started to appear spontaneously on various banners and we can take it as a de facto flag of Littfeld.
+This is the flag of Littfeld as published on page 22 of the _Leaving Erin_ and provided by _OllieMint_.
+
+No further information about this flag is currently available.
