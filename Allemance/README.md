@@ -33,3 +33,13 @@ During the consolidation of the nobility, all other flags were updated as well. 
 ![Flag of the Crown City of Louvain](Allemance_Louvain.svg)
 
 Pictured is the flag of the capital city of Louvain.
+
+## Flag of Glasrún
+
+![Flag of Glasrún](Allemance_Glasrun.svg)
+
+The only exception to this rule is the independent province of Glasrún. Its flag features a horizontal division, with the bottom field green to symbolise the green forests that gave Glasrún its name, and the top field sky blue to represent the clear sky. They adopted the Allemancian cornucopia in the canton of their flag, but omitted the royal purple to symbolise their independence.
+
+![Flag of Glasrún, plain](Allemance_Glasrun_plain.svg)
+
+However, some people, particularly those around Barraille, reject the Alley connection and prefer to use the traditional plain version as a political statement.
